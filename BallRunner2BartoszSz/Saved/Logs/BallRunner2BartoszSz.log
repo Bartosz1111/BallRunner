@@ -1812,3 +1812,322 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.02-19.09.14:825][821]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.078
 [2023.03.02-19.09.14:825][821]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.078
 [2023.03.02-19.11.16:591][956]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2023.03.02-19.17.56:733][681]LogEditorViewport: Clicking Background
+[2023.03.02-19.17.58:733][734]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_01_C (BP_Ball_01)
+[2023.03.02-19.18.07:448][901]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.02-19.18.07:493][901]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.02-19.18.16:423][179]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.02-19.18.16:436][179]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.02-19.18.16:437][179]LogPlayLevel: [PlayLevel] Compiling BP_Ball_01 before play...
+[2023.03.02-19.18.16:589][179]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.03.02-19.18.16:591][179]LogPlayLevel: PlayLevel: Blueprint regeneration took 155 ms (1 blueprints)
+[2023.03.02-19.18.16:592][179]PIE: New page: PIE session: Level1 (2 mar 2023, 21:18:16)
+[2023.03.02-19.18.16:593][179]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.18.16:600][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006244s)
+[2023.03.02-19.18.16:601][179]LogAIModule: Creating AISystem for world Level1
+[2023.03.02-19.18.16:601][179]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2023.03.02-19.18.16:601][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.007772s)
+[2023.03.02-19.18.16:644][179]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.03.02-19.18.16:645][179]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-19.18.16:645][179]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-19.18.16:645][179]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-19.18.16:646][179]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-19.18.16:646][179]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-19.18.16:646][179]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-19.18.16:646][179]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-19.18.16:648][179]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-19.18.16:648][179]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-19.18.16:746][179]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-19.18.16:746][179]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-19.18.16:747][179]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-19.18.16:747][179]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-19.18.16:747][179]LogInit: FAudioDevice initialized.
+[2023.03.02-19.18.16:747][179]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.03.02-19.18.16:755][179]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.02-19.18.16:757][179]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.03.02-20.18.16
+[2023.03.02-19.18.16:759][179]LogWorld: Bringing up level for play took: 0.002847
+[2023.03.02-19.18.16:759][179]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.03.02-19.18.16:761][179]PIE: Server logged in
+[2023.03.02-19.18.16:762][179]PIE: Play in editor total start time 0,331 seconds.
+[2023.03.02-19.18.20:621][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.18.20:621][297]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.18.20:622][297]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-19.18.20:622][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.18.20:636][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-19.18.20:648][297]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.18.20:687][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.18.20:687][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.18.20:689][297]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.18.20:710][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2023.03.02-19.18.20:735][298]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.03.02-19.19.19:663][831]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2023.03.02-19.19.19:683][831]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto51AAD9C3E4B4BEEF00F247CACE0C21310.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto5.umap'
+[2023.03.02-19.19.19:684][831]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.074
+[2023.03.02-19.19.19:684][831]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.074
+[2023.03.02-19.19.19:685][831]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Ball_01] ([2] browsable assets)...
+[2023.03.02-19.19.19:712][831]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01]
+[2023.03.02-19.19.19:712][831]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Ball_01]
+[2023.03.02-19.19.19:761][831]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_01_Auto57F137EEB4196C2263D4D82B3B32B7473.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Pawns/BP_Ball_01_Auto5.uasset'
+[2023.03.02-19.19.19:763][831]LogFileHelpers: Auto-saving content packages took 0.078
+[2023.03.02-19.22.08:304][540]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.02-19.22.08:314][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-19.22.08:314][540]PIE: New page: PIE session: Level1 (2 mar 2023, 21:22:08)
+[2023.03.02-19.22.08:314][540]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.22.08:323][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008581s)
+[2023.03.02-19.22.08:324][540]LogAIModule: Creating AISystem for world Level1
+[2023.03.02-19.22.08:325][540]LogPlayLevel: PIE: World Init took: (0.001532s)
+[2023.03.02-19.22.08:325][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010277s)
+[2023.03.02-19.22.08:380][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2023.03.02-19.22.08:383][540]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-19.22.08:383][540]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-19.22.08:383][540]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-19.22.08:384][540]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-19.22.08:384][540]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-19.22.08:384][540]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-19.22.08:384][540]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-19.22.08:387][540]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-19.22.08:387][540]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-19.22.08:518][540]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.02-19.22.08:519][540]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-19.22.08:519][540]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-19.22.08:519][540]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-19.22.08:519][540]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-19.22.08:519][540]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-19.22.08:519][540]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-19.22.08:521][540]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-19.22.08:521][540]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-19.22.08:521][540]LogInit: FAudioDevice initialized.
+[2023.03.02-19.22.08:521][540]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.03.02-19.22.08:532][540]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.02-19.22.08:534][540]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.02-20.22.08
+[2023.03.02-19.22.08:534][540]LogWorld: Bringing up level for play took: 0.001456
+[2023.03.02-19.22.08:535][540]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.03.02-19.22.08:538][540]PIE: Server logged in
+[2023.03.02-19.22.08:538][540]PIE: Play in editor total start time 0,228 seconds.
+[2023.03.02-19.22.12:395][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.22.12:395][749]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.22.12:395][749]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-19.22.12:396][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.22.12:407][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-19.22.12:423][749]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.22.12:466][749]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.02-19.22.12:466][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.22.12:466][749]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.22.12:484][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.22.12:490][749]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2023.03.02-19.22.12:521][750]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.03.02-19.22.22:169][ 79]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.02-19.22.22:179][ 79]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-19.22.22:179][ 79]PIE: New page: PIE session: Level1 (2 mar 2023, 21:22:22)
+[2023.03.02-19.22.22:179][ 79]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.22.22:187][ 79]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007980s)
+[2023.03.02-19.22.22:188][ 79]LogAIModule: Creating AISystem for world Level1
+[2023.03.02-19.22.22:188][ 79]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2023.03.02-19.22.22:188][ 79]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009428s)
+[2023.03.02-19.22.22:234][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2023.03.02-19.22.22:236][ 79]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-19.22.22:236][ 79]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-19.22.22:236][ 79]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-19.22.22:237][ 79]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-19.22.22:237][ 79]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-19.22.22:237][ 79]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-19.22.22:237][ 79]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-19.22.22:240][ 79]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-19.22.22:240][ 79]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-19.22.22:360][ 79]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-19.22.22:362][ 79]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-19.22.22:362][ 79]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-19.22.22:362][ 79]LogInit: FAudioDevice initialized.
+[2023.03.02-19.22.22:362][ 79]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.03.02-19.22.22:374][ 79]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.02-19.22.22:377][ 79]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.02-20.22.22
+[2023.03.02-19.22.22:377][ 79]LogWorld: Bringing up level for play took: 0.001553
+[2023.03.02-19.22.22:377][ 79]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.03.02-19.22.22:380][ 79]PIE: Server logged in
+[2023.03.02-19.22.22:381][ 79]PIE: Play in editor total start time 0,205 seconds.
+[2023.03.02-19.22.46:364][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.22.46:364][375]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.22.46:365][375]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-19.22.46:365][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.22.46:375][375]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-19.22.46:390][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.22.46:434][375]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.22.46:434][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.22.46:435][375]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.22.46:457][375]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2023.03.02-19.22.46:486][376]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.03.02-19.22.50:065][494]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.02-19.22.50:075][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-19.22.50:076][494]PIE: New page: PIE session: Level1 (2 mar 2023, 21:22:50)
+[2023.03.02-19.22.50:076][494]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.22.50:084][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007974s)
+[2023.03.02-19.22.50:085][494]LogAIModule: Creating AISystem for world Level1
+[2023.03.02-19.22.50:085][494]LogPlayLevel: PIE: World Init took: (0.001286s)
+[2023.03.02-19.22.50:085][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009405s)
+[2023.03.02-19.22.50:131][494]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.03.02-19.22.50:132][494]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-19.22.50:133][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-19.22.50:133][494]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-19.22.50:133][494]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-19.22.50:133][494]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-19.22.50:133][494]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-19.22.50:136][494]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-19.22.50:136][494]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-19.22.50:263][494]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.02-19.22.50:263][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-19.22.50:263][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-19.22.50:263][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-19.22.50:264][494]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-19.22.50:264][494]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-19.22.50:264][494]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-19.22.50:265][494]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-19.22.50:265][494]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-19.22.50:265][494]LogInit: FAudioDevice initialized.
+[2023.03.02-19.22.50:265][494]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2023.03.02-19.22.50:276][494]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.02-19.22.50:278][494]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.02-20.22.50
+[2023.03.02-19.22.50:278][494]LogWorld: Bringing up level for play took: 0.001632
+[2023.03.02-19.22.50:278][494]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.03.02-19.22.50:281][494]PIE: Server logged in
+[2023.03.02-19.22.50:282][494]PIE: Play in editor total start time 0,209 seconds.
+[2023.03.02-19.24.41:164][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.24.41:164][426]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.24.41:164][426]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.02-19.24.41:164][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.24.41:178][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.02-19.24.41:190][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.02-19.24.41:228][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.02-19.24.41:228][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.24.41:230][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.02-19.24.41:245][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.02-19.24.41:252][426]LogUObjectHash: Compacting FUObjectHashTables data took   4.74ms
+[2023.03.02-19.24.41:289][427]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.02-19.25.18:131][904]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2023.03.02-19.25.18:199][904]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.03.02-19.25.18:216][904]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level13912FCE2494A79BF869036B41647B326.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.02-19.25.18:222][904]LogFileHelpers: Saving map 'Level1' took 0.062
+[2023.03.02-19.25.18:229][904]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_0194680D7148AB725123D058B38527785E.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Pawns/BP_Ball_01.uasset'
+[2023.03.02-19.25.18:247][904]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.02-19.25.18:247][904]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.02-19.25.18:247][904]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01
+[2023.03.02-19.25.55:469][128]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.02-19.25.55:479][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.02-19.25.55:479][128]PIE: New page: PIE session: Level1 (2 mar 2023, 21:25:55)
+[2023.03.02-19.25.55:479][128]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.02-19.25.55:488][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009086s)
+[2023.03.02-19.25.55:489][128]LogAIModule: Creating AISystem for world Level1
+[2023.03.02-19.25.55:489][128]LogPlayLevel: PIE: World Init took: (0.001446s)
+[2023.03.02-19.25.55:489][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010699s)
+[2023.03.02-19.25.55:541][128]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2023.03.02-19.25.55:542][128]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.02-19.25.55:542][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.02-19.25.55:543][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.02-19.25.55:543][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.02-19.25.55:543][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.02-19.25.55:543][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.02-19.25.55:543][128]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.02-19.25.55:547][128]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.02-19.25.55:547][128]LogAudioMixer: Display: 1: FrontRight
+[2023.03.02-19.25.55:669][128]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.02-19.25.55:669][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.02-19.25.55:669][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.02-19.25.55:669][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.02-19.25.55:670][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.02-19.25.55:670][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.02-19.25.55:670][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.02-19.25.55:671][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.02-19.25.55:671][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.02-19.25.55:671][128]LogInit: FAudioDevice initialized.
+[2023.03.02-19.25.55:671][128]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2023.03.02-19.25.55:684][128]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.02-19.25.55:688][128]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.02-20.25.55
+[2023.03.02-19.25.55:688][128]LogWorld: Bringing up level for play took: 0.001398
+[2023.03.02-19.25.55:688][128]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.03.02-19.25.55:690][128]PIE: Server logged in
+[2023.03.02-19.25.55:691][128]PIE: Play in editor total start time 0,216 seconds.
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: request failed, libcurl error: 0 (No error)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x231b1317070 [can pipeline])
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 1 (Re-using existing connection! (#3) with host datarouter.ol.epicgames.com)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.217.87.88) port 443 (#3))
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 7 (Closing connection 3)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: 0000023249756B00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.02-19.27.22:549][582]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.02-19.36.22:123][194]LogHttp: Warning: 00000232178B6400: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: request failed, libcurl error: 0 (No error)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x231b13146d0 [can pipeline])
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.45.9) port 443 (#4))
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 7 (Closing connection 4)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: 00000232178B6400: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.02-19.36.22:124][194]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.02-20.00.56:629][231]LogHttp: Warning: 0000023249744800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x231b1317070 [can pipeline])
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.45.9) port 443 (#5))
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.02-20.00.56:630][231]LogHttp: Warning: 0000023249744800: libcurl info message cache 7 (Closing connection 5)
+[2023.03.02-20.00.56:964][232]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: HTTP request timed out after 180.00 seconds URL=https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: request failed, libcurl error: 0 (No error)
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x231b13154b0 [can pipeline])
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.232.15.133) port 443 (#6))
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 4 (Closing connection 6)
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: 000002319AC53200: libcurl info message cache 5 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.02-20.06.17:736][190]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B808BC064-4372-C838-C1AF-E3A1BAABA6B7%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
