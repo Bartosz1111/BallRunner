@@ -1410,3 +1410,20 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.03-19.03.08:208][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
 [2023.03.03-19.03.08:208][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 7 (Closing connection 1)
 [2023.03.03-19.03.08:539][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54B9614B-4108-84BB-79D3-788C053B64B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.03-20.07.48:822][585]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7be267ae-dd0b-4fa7-9f24-f40c7a892065}.
+[2023.03.03-20.07.48:822][585]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.03-20.07.49:009][585]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-20.07.49:009][585]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-20.16.48:439][192]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{05adc81b-6983-4a61-a46c-02f3b1ca1d5a}.
+[2023.03.03-20.16.48:440][192]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.03-20.16.48:703][192]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.03-20.16.48:703][192]LogAudioMixer: Display: 1: FrontRight
+[2023.03.03-20.20.12:525][445]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2023.03.03-20.20.12:551][445]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto364B044174872A78D4B8A99B3E1D6C0F7.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto3.umap'
+[2023.03.03-20.20.12:553][445]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.163
+[2023.03.03-20.20.12:553][445]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.163
+[2023.03.03-20.20.12:553][445]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Ball_01] ([2] browsable assets)...
+[2023.03.03-20.20.12:623][445]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01]
+[2023.03.03-20.20.12:624][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Ball_01]
+[2023.03.03-20.20.12:641][445]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_01_Auto367D322FB4A4105698822B7B8DDF49A18.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Pawns/BP_Ball_01_Auto3.uasset'
+[2023.03.03-20.20.12:641][445]LogFileHelpers: Auto-saving content packages took 0.089
