@@ -1427,3 +1427,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.03-20.20.12:624][445]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Ball_01]
 [2023.03.03-20.20.12:641][445]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_01_Auto367D322FB4A4105698822B7B8DDF49A18.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Pawns/BP_Ball_01_Auto3.uasset'
 [2023.03.03-20.20.12:641][445]LogFileHelpers: Auto-saving content packages took 0.089
+[2023.03.03-20.30.13:112][869]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.03.03-20.30.13:131][869]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto4EF409F594AE9E546C941CD986BC4166D.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto4.umap'
+[2023.03.03-20.30.13:133][869]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.060
+[2023.03.03-20.30.13:133][869]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.060
+[2023.03.03-20.30.13:133][869]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Pawns/BP_Ball_01] ([2] browsable assets)...
+[2023.03.03-20.30.13:164][869]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01]
+[2023.03.03-20.30.13:164][869]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Pawns/BP_Ball_01]
+[2023.03.03-20.30.13:177][869]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_01_Auto4AEFFF5FA4A98FD43741F9DBC3F874846.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Pawns/BP_Ball_01_Auto4.uasset'
+[2023.03.03-20.30.13:178][869]LogFileHelpers: Auto-saving content packages took 0.044
+[2023.03.03-20.33.54:821][709]BlueprintLog: New page: Compile BP_Ball_01
+[2023.03.03-20.33.54:876][709]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2023.03.03-20.34.07:580][734]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.03.03-20.34.07:628][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.03.03-20.34.07:641][734]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1BCA249D64F82FF944746808690AC3022.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.03-20.34.07:646][734]LogFileHelpers: Saving map 'Level1' took 0.047
+[2023.03.03-20.34.07:690][734]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Ball_01238FD9C84AD6B10019864AAE5AE2A415.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Pawns/BP_Ball_01.uasset'
+[2023.03.03-20.34.07:705][734]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.03-20.34.07:705][734]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01
+[2023.03.03-20.34.07:705][734]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
