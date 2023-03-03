@@ -1387,3 +1387,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.03-18.54.11:814][422]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.03-18.54.11:814][422]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Pawns/BP_Ball_01.BP_Ball_01
 [2023.03.03-18.54.11:814][422]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.03-18.58.42:318][108]LogHttp: Warning: 000002964E803200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54B9614B-4108-84BB-79D3-788C053B64B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: request failed, libcurl error: 0 (No error)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2967a9b7eb0 [can pipeline])
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.169.234.180) port 443 (#0))
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 7 (Closing connection 0)
+[2023.03.03-18.58.42:320][108]LogHttp: Warning: 000002964E803200: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.03-18.58.42:321][108]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54B9614B-4108-84BB-79D3-788C053B64B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54B9614B-4108-84BB-79D3-788C053B64B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x2967a9b45e0 [can pipeline])
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.205.228.254) port 443 (#1))
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.03-19.03.08:207][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2023.03.03-19.03.08:208][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.03-19.03.08:208][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.03-19.03.08:208][903]LogHttp: Warning: 000002963CCFDD00: libcurl info message cache 7 (Closing connection 1)
+[2023.03.03-19.03.08:539][904]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54B9614B-4108-84BB-79D3-788C053B64B3%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
