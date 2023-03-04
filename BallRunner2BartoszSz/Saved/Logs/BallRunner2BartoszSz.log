@@ -959,3 +959,11 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.03-23.56.50:866][794]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Crystal_01]
 [2023.03.03-23.56.50:917][794]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Crystal_01_Auto2ACB2F92342EA4A279BCA178F30C8F15F.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Crystal_01_Auto2.uasset'
 [2023.03.03-23.56.50:922][794]LogFileHelpers: Auto-saving content packages took 0.106
+[2023.03.04-00.12.47:593][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.03.04-00.12.47:642][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.03.04-00.12.47:669][ 43]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1A0D074D940947C7E110C08BA64186EB2.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.04-00.12.47:682][ 43]LogFileHelpers: Saving map 'Level1' took 0.068
+[2023.03.04-00.12.47:718][ 43]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Crystal_01E6DD632D43A96BDE4E4E33AB65A57B5E.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Crystal_01.uasset'
+[2023.03.04-00.12.47:747][ 43]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.04-00.12.47:747][ 43]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Crystal_01.BP_Crystal_01
+[2023.03.04-00.12.47:748][ 43]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
