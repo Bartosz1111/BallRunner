@@ -967,3 +967,15 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.04-00.12.47:747][ 43]AssetCheck: New page: Asset Save: multiple assets
 [2023.03.04-00.12.47:747][ 43]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Crystal_01.BP_Crystal_01
 [2023.03.04-00.12.47:748][ 43]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.04-00.15.56:693][ 72]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{7be267ae-dd0b-4fa7-9f24-f40c7a892065}.
+[2023.03.04-00.15.56:693][ 72]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.04-00.15.56:697][ 72]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.04-00.15.56:697][ 72]LogAudioMixer: Display: 1: FrontRight
+[2023.03.04-00.25.20:014][602]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/Level1.Level1:PersistentLevel.Level1
+[2023.03.04-00.27.51:036][367]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.03.04-00.28.32:227][490]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.03.04-00.30.59:575][ 21]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.03.04-00.30.59:575][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.04-00.32.13:541][504]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.04-00.32.17:129][812]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.04-00.33.17:051][625]LogRenderer: Reallocating scene render targets to support 912x672 Format 10 NumSamples 1 (Frame:1).
