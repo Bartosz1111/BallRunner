@@ -1749,3 +1749,1024 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 13 (SSL certificate problem: self signed certificate)
 [2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 14 (Closing connection 2)
 [2023.03.19-19.09.19:439][297]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B798A3AE4-4405-4762-BE37-A1AA3BA1F0F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.19-19.18.11:541][881]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f075443d-8957-47f5-9ae6-1fd56e22dbdf}.
+[2023.03.19-19.18.11:541][881]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.19-19.18.11:681][881]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-19.18.11:681][881]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-19.23.00:499][266]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2023.03.19-19.23.00:504][266]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.101
+[2023.03.19-19.23.00:505][266]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Actors/BP_RestartTrigger_01] ([2] browsable assets)...
+[2023.03.19-19.23.00:505][266]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_RestartTrigger_01]
+[2023.03.19-19.23.00:513][266]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_RestartTrigger_01_Auto7CE1F18004C46E5CAE634E4B43CBE9788.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_RestartTrigger_01_Auto7.uasset'
+[2023.03.19-19.23.00:513][266]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.03.19-19.38.59:505][673]Cmd: TRANSACTION UNDO
+[2023.03.19-19.38.59:507][673]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.38.59:556][673]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: E4AA876608D0B01E0C2B0432E135FCD106C37D81), compiling. 
+[2023.03.19-19.38.59:570][673]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.38.59:702][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-19.38.59:703][675]LogShaderCompilers: Display: Total job queries 64, among them cache hits 26 (40.62%)
+[2023.03.19-19.38.59:703][675]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-19.38.59:703][675]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-19.38.59:703][675]LogShaderCompilers: Display: ================================================
+[2023.03.19-19.38.59:751][676]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.38.59:751][676]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.38.59:751][676]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.38.59:751][676]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.39.11:902][367]LogEditorViewport: Clicking Background
+[2023.03.19-19.39.47:603][822]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Crystal_01_C (BP_Crystal_3)
+[2023.03.19-19.39.48:316][865]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Crystal_01_C (BP_Crystal_01)
+[2023.03.19-19.39.49:996][966]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Crystal_01_C (BP_Crystal_2)
+[2023.03.19-19.39.55:309][278]Cmd: TRANSACTION UNDO
+[2023.03.19-19.39.55:310][278]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.39.55:340][278]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 38E46E6E241E27346337A351E98EC05BF6507B8B), compiling. 
+[2023.03.19-19.39.55:348][278]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.39.55:478][281]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.39.55:478][281]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.39.55:478][281]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.39.55:478][281]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.39.59:091][465]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Ball_01_C (BP_Ball_01)
+[2023.03.19-19.40.00:379][509]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Cannon_01_C (BP_Cannon_01)
+[2023.03.19-19.40.01:983][563]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight12)
+[2023.03.19-19.40.03:101][601]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight11)
+[2023.03.19-19.40.04:807][671]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight10)
+[2023.03.19-19.40.08:342][812]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight9)
+[2023.03.19-19.40.15:370][104]LogEditorViewport: Clicking Background
+[2023.03.19-19.40.30:968][ 68]Cmd: EDCALLBACK SURFPROPS
+[2023.03.19-19.40.33:770][247]LogEditorViewport: Clicking Background
+[2023.03.19-19.40.36:014][392]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2023.03.19-19.40.53:401][418]Cmd: TRANSACTION UNDO
+[2023.03.19-19.40.53:401][418]LogEditorTransaction: Undo Set Material
+[2023.03.19-19.40.53:420][418]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C1A45E4A779897FD94465D2A90867147D824C95C), compiling. 
+[2023.03.19-19.40.53:426][418]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.40.53:552][421]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.40.53:554][421]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.40.53:554][421]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.40.53:554][421]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.40.58:627][716]Cmd: TRANSACTION UNDO
+[2023.03.19-19.40.58:627][716]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.40.58:660][716]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CFB0D0A2B5D294E7E864B331718955E043785B47), compiling. 
+[2023.03.19-19.40.58:670][716]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.40.58:823][719]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.40.58:823][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.40.58:823][719]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.40.58:823][719]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.41.20:642][896]LogEditorViewport: Clicking Background
+[2023.03.19-19.41.37:738][721]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2023.03.19-19.41.47:309][310]Cmd: TRANSACTION UNDO
+[2023.03.19-19.41.47:309][310]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.41.47:325][310]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2023.03.19-19.41.47:325][310]LogGeometryMode: Warning: Unable to resolve BoxBrush10 Brush in new BSP, see above
+[2023.03.19-19.41.47:325][310]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-19.41.47:341][310]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: A3A08D82661444C97044C46376474160C1CBABFC), compiling. 
+[2023.03.19-19.41.47:349][310]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.41.47:493][313]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.41.47:493][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.41.47:493][313]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.41.47:493][313]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.42.13:170][779]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2023.03.19-19.42.13:194][779]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto8D6D37E1043FFB0EAA45599868A07698E.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto8.umap'
+[2023.03.19-19.42.13:196][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.088
+[2023.03.19-19.42.13:196][779]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.088
+[2023.03.19-19.43.16:382][426]LogEditorViewport: Clicking Background
+[2023.03.19-19.43.36:964][506]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2023.03.19-19.44.12:830][571]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-19.44.12:839][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-19.44.12:839][571]PIE: New page: PIE session: Level1 (19 mar 2023, 21:44:12)
+[2023.03.19-19.44.12:840][571]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.12:849][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009651s)
+[2023.03.19-19.44.12:851][571]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.12:851][571]LogPlayLevel: PIE: World Init took: (0.002130s)
+[2023.03.19-19.44.12:852][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.011955s)
+[2023.03.19-19.44.12:904][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.19-19.44.12:909][571]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-19.44.12:910][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-19.44.12:910][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-19.44.12:910][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-19.44.12:910][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-19.44.12:910][571]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-19.44.12:913][571]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-19.44.12:913][571]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-19.44.13:026][571]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-19.44.13:026][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-19.44.13:027][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-19.44.13:027][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-19.44.13:027][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-19.44.13:027][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-19.44.13:027][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-19.44.13:029][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-19.44.13:029][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-19.44.13:029][571]LogInit: FAudioDevice initialized.
+[2023.03.19-19.44.13:029][571]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.03.19-19.44.13:047][571]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.13:050][571]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.13
+[2023.03.19-19.44.13:050][571]LogWorld: Bringing up level for play took: 0.001859
+[2023.03.19-19.44.13:051][571]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2023.03.19-19.44.13:055][571]PIE: Server logged in
+[2023.03.19-19.44.13:056][571]PIE: Play in editor total start time 0,22 seconds.
+[2023.03.19-19.44.17:144][836]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.44.17:144][836]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.44.17:144][836]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.17:146][836]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.17:148][836]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.17:206][836]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.44.17:217][836]LogUObjectHash: Compacting FUObjectHashTables data took   6.20ms
+[2023.03.19-19.44.17:221][836]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.17:229][836]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009335s)
+[2023.03.19-19.44.17:231][836]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.17:231][836]LogPlayLevel: PIE: World Init took: (0.001534s)
+[2023.03.19-19.44.17:231][836]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.011079s)
+[2023.03.19-19.44.17:231][836]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.03.19-19.44.17:231][836]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.17:234][836]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.17
+[2023.03.19-19.44.17:234][836]LogWorld: Bringing up level for play took: 0.001822
+[2023.03.19-19.44.17:236][836]LogLoad: Took 0.090961 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.44.21:492][ 95]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.44.21:492][ 95]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.44.21:492][ 95]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.21:495][ 95]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.21:497][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.21:555][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.44.21:563][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2023.03.19-19.44.21:565][ 95]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.21:574][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009052s)
+[2023.03.19-19.44.21:575][ 95]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.21:575][ 95]LogPlayLevel: PIE: World Init took: (0.001227s)
+[2023.03.19-19.44.21:575][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010461s)
+[2023.03.19-19.44.21:575][ 95]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.03.19-19.44.21:575][ 95]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.21:577][ 95]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.21
+[2023.03.19-19.44.21:577][ 95]LogWorld: Bringing up level for play took: 0.001135
+[2023.03.19-19.44.21:578][ 95]LogLoad: Took 0.085565 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.44.25:797][360]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.44.25:797][360]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.44.25:797][360]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.25:799][360]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.25:800][360]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.25:852][360]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.44.25:860][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.03.19-19.44.25:861][360]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.25:869][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008200s)
+[2023.03.19-19.44.25:870][360]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.25:870][360]LogPlayLevel: PIE: World Init took: (0.001146s)
+[2023.03.19-19.44.25:870][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009551s)
+[2023.03.19-19.44.25:870][360]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2023.03.19-19.44.25:870][360]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.25:872][360]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.25
+[2023.03.19-19.44.25:872][360]LogWorld: Bringing up level for play took: 0.001146
+[2023.03.19-19.44.25:873][360]LogLoad: Took 0.076311 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.44.26:598][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.44.26:598][407]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.26:598][407]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.26:599][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.26:617][407]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-19.44.26:636][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.26:679][407]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.44.26:679][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.44.26:680][407]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.44.26:702][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2023.03.19-19.44.26:735][408]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.03.19-19.44.36:180][207]LogEditorViewport: Clicking Background
+[2023.03.19-19.44.36:523][246]LogEditorViewport: Clicking Background
+[2023.03.19-19.44.36:953][296]LogEditorViewport: Clicking Background
+[2023.03.19-19.44.37:462][355]LogEditorViewport: Clicking on Actor (LMB): BP_RestartTrigger_01_C (BP_RestartTrigger_01)
+[2023.03.19-19.44.43:191][950]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-19.44.43:198][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-19.44.43:198][950]PIE: New page: PIE session: Level1 (19 mar 2023, 21:44:43)
+[2023.03.19-19.44.43:198][950]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.43:206][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007471s)
+[2023.03.19-19.44.43:207][950]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.43:207][950]LogPlayLevel: PIE: World Init took: (0.001088s)
+[2023.03.19-19.44.43:207][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008683s)
+[2023.03.19-19.44.43:254][950]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2023.03.19-19.44.43:257][950]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-19.44.43:257][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-19.44.43:257][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-19.44.43:257][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-19.44.43:257][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-19.44.43:257][950]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-19.44.43:260][950]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-19.44.43:260][950]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-19.44.43:371][950]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-19.44.43:372][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-19.44.43:372][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-19.44.43:372][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-19.44.43:372][950]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-19.44.43:372][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-19.44.43:372][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-19.44.43:374][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-19.44.43:374][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-19.44.43:374][950]LogInit: FAudioDevice initialized.
+[2023.03.19-19.44.43:374][950]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.03.19-19.44.43:385][950]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.43:387][950]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.43
+[2023.03.19-19.44.43:387][950]LogWorld: Bringing up level for play took: 0.001116
+[2023.03.19-19.44.43:387][950]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.03.19-19.44.43:390][950]PIE: Server logged in
+[2023.03.19-19.44.43:391][950]PIE: Play in editor total start time 0,195 seconds.
+[2023.03.19-19.44.47:709][239]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.44.47:709][239]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.44.47:709][239]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.47:710][239]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.47:712][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.47:789][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.44.47:796][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2023.03.19-19.44.47:798][239]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.47:806][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008215s)
+[2023.03.19-19.44.47:807][239]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.44.47:807][239]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2023.03.19-19.44.47:807][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009708s)
+[2023.03.19-19.44.47:807][239]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2023.03.19-19.44.47:807][239]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.44.47:810][239]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.44.47
+[2023.03.19-19.44.47:810][239]LogWorld: Bringing up level for play took: 0.001162
+[2023.03.19-19.44.47:811][239]LogLoad: Took 0.102052 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.44.48:918][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.44.48:918][314]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.44.48:918][314]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.44.48:919][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.48:932][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-19.44.48:945][314]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.44.48:989][314]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.44.48:989][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.44.48:991][314]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.44.49:007][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.44.49:012][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.03.19-19.44.49:042][315]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.03.19-19.45.24:318][387]LogEditorViewport: Clicking on Actor (LMB): BP_Cannon_01_C (BP_Cannon_01)
+[2023.03.19-19.45.27:011][518]Cmd: DELETE
+[2023.03.19-19.45.27:011][518]Cmd: ACTOR DELETE
+[2023.03.19-19.45.27:023][518]LogEditorActor: Deleted Actor: BP_Cannon_01_C
+[2023.03.19-19.45.27:080][518]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.03.19-19.45.27:083][518]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2023.03.19-19.45.38:456][127]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-19.45.38:495][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-19.45.38:495][127]PIE: New page: PIE session: Level1 (19 mar 2023, 21:45:38)
+[2023.03.19-19.45.38:495][127]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.45.38:503][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008202s)
+[2023.03.19-19.45.38:504][127]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.45.38:504][127]LogPlayLevel: PIE: World Init took: (0.001402s)
+[2023.03.19-19.45.38:504][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009771s)
+[2023.03.19-19.45.38:555][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.03.19-19.45.38:557][127]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-19.45.38:557][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-19.45.38:557][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-19.45.38:558][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-19.45.38:558][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-19.45.38:558][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-19.45.38:558][127]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-19.45.38:560][127]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-19.45.38:560][127]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-19.45.38:671][127]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-19.45.38:673][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-19.45.38:673][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-19.45.38:673][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-19.45.38:673][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-19.45.38:673][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-19.45.38:673][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-19.45.38:675][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-19.45.38:675][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-19.45.38:675][127]LogInit: FAudioDevice initialized.
+[2023.03.19-19.45.38:675][127]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.03.19-19.45.38:685][127]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.45.38:689][127]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.45.38
+[2023.03.19-19.45.38:689][127]LogWorld: Bringing up level for play took: 0.001200
+[2023.03.19-19.45.38:689][127]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2023.03.19-19.45.38:692][127]PIE: Server logged in
+[2023.03.19-19.45.38:692][127]PIE: Play in editor total start time 0,23 seconds.
+[2023.03.19-19.46.22:728][226]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.46.22:728][226]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.46.22:728][226]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.46.22:728][226]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.46.22:729][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.46.22:807][226]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.46.22:812][226]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.19-19.46.22:816][226]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.46.22:823][226]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007533s)
+[2023.03.19-19.46.22:823][226]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.46.22:823][226]LogPlayLevel: PIE: World Init took: (0.001188s)
+[2023.03.19-19.46.22:823][226]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008917s)
+[2023.03.19-19.46.22:823][226]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.03.19-19.46.22:823][226]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.46.22:826][226]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.46.22
+[2023.03.19-19.46.22:827][226]LogWorld: Bringing up level for play took: 0.001109
+[2023.03.19-19.46.22:827][226]LogLoad: Took 0.099345 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.47.00:698][ 64]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.47.00:698][ 64]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.47.00:698][ 64]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.47.00:699][ 64]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.47.00:699][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.47.00:775][ 64]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.47.00:780][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2023.03.19-19.47.00:781][ 64]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.47.00:791][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008194s)
+[2023.03.19-19.47.00:792][ 64]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.47.00:792][ 64]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2023.03.19-19.47.00:792][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009574s)
+[2023.03.19-19.47.00:792][ 64]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2023.03.19-19.47.00:792][ 64]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.47.00:794][ 64]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.47.00
+[2023.03.19-19.47.00:794][ 64]LogWorld: Bringing up level for play took: 0.001530
+[2023.03.19-19.47.00:795][ 64]LogLoad: Took 0.096501 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.47.09:497][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.47.09:497][621]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.47.09:497][621]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.47.09:497][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.47.09:510][621]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-19.47.09:524][621]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.47.09:569][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.47.09:569][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.47.09:571][621]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.47.09:591][621]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2023.03.19-19.47.09:622][622]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.03.19-19.47.15:657][ 17]LogEditorViewport: Clicking Background
+[2023.03.19-19.47.21:133][378]LogEditorViewport: Clicking Background
+[2023.03.19-19.47.22:634][479]LogEditorViewport: Clicking Background
+[2023.03.19-19.47.27:424][786]LogEditorViewport: Clicking Background
+[2023.03.19-19.47.58:341][814]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 0
+[2023.03.19-19.48.12:235][797]LogEditorViewport: Clicking Background
+[2023.03.19-19.48.31:706][289]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-19.49.15:838][449]Cmd: TRANSACTION UNDO
+[2023.03.19-19.49.15:838][449]LogEditorTransaction: Undo Clicking on Actors
+[2023.03.19-19.49.15:858][449]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5A27E083F27E900C07658E47E9F7292FDEC5D75C), compiling. 
+[2023.03.19-19.49.15:866][449]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.49.15:955][451]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-19.49.15:955][451]LogShaderCompilers: Display: Total job queries 114, among them cache hits 76 (66.67%)
+[2023.03.19-19.49.15:955][451]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-19.49.15:955][451]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-19.49.15:955][451]LogShaderCompilers: Display: ================================================
+[2023.03.19-19.49.15:996][452]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.49.15:996][452]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.49.15:996][452]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.49.15:996][452]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.17:287][505]Cmd: TRANSACTION UNDO
+[2023.03.19-19.49.17:288][505]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.19-19.49.17:306][505]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CEF24561BA597C1DC6F092A3ADB3BFDF1AA07832), compiling. 
+[2023.03.19-19.49.17:309][505]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.49.17:394][508]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.49.17:394][508]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.49.17:394][508]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.49.17:394][508]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.19:274][591]Cmd: TRANSACTION UNDO
+[2023.03.19-19.49.19:274][591]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.19-19.49.19:291][591]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C70A2E5C2FE0690F273D9C43F1669134AC98FBA1), compiling. 
+[2023.03.19-19.49.19:295][591]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.49.19:351][594]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.19:378][595]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.49.19:378][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.49.19:378][595]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.49.19:378][595]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.20:493][643]Cmd: TRANSACTION UNDO
+[2023.03.19-19.49.20:493][643]LogEditorTransaction: Undo Select Brush Surface
+[2023.03.19-19.49.20:506][643]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 20558F767B9952A3A322E7457AF4F83616080ECE), compiling. 
+[2023.03.19-19.49.20:508][643]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.49.20:586][646]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.49.20:586][646]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.49.20:586][646]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.49.20:586][646]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.21:962][705]Cmd: TRANSACTION UNDO
+[2023.03.19-19.49.21:962][705]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.49.21:990][705]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 2AB9F111CD2960512B0D88736C243834141428B3), compiling. 
+[2023.03.19-19.49.21:995][705]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.49.22:057][708]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.49.22:083][709]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.49.22:083][709]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.49.22:083][709]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.49.22:083][709]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.50.47:859][992]Cmd: TRANSACTION UNDO
+[2023.03.19-19.50.47:859][992]LogEditorTransaction: Undo Move Actors
+[2023.03.19-19.50.47:897][992]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 63F1CDE35EA6ED01AC958747D6B06B6CB9E4DA9F), compiling. 
+[2023.03.19-19.50.47:905][992]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-19.50.48:048][995]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-19.50.48:048][995]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-19.50.48:048][995]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-19.50.48:048][995]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-19.51.15:849][335]LogEditorViewport: Clicking Background
+[2023.03.19-19.51.39:986][831]LogEditorViewport: Clicking Background
+[2023.03.19-19.52.06:761][367]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-19.52.06:770][367]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-19.52.06:770][367]PIE: New page: PIE session: Level1 (19 mar 2023, 21:52:06)
+[2023.03.19-19.52.06:770][367]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.52.06:779][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008423s)
+[2023.03.19-19.52.06:781][367]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.52.06:781][367]LogPlayLevel: PIE: World Init took: (0.001928s)
+[2023.03.19-19.52.06:781][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010488s)
+[2023.03.19-19.52.06:838][367]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.03.19-19.52.06:844][367]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-19.52.06:844][367]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-19.52.06:844][367]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-19.52.06:845][367]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-19.52.06:845][367]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-19.52.06:845][367]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-19.52.06:845][367]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-19.52.06:848][367]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-19.52.06:848][367]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-19.52.06:944][367]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-19.52.06:945][367]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-19.52.06:945][367]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-19.52.06:945][367]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-19.52.06:945][367]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-19.52.06:945][367]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-19.52.06:945][367]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-19.52.06:947][367]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-19.52.06:947][367]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-19.52.06:947][367]LogInit: FAudioDevice initialized.
+[2023.03.19-19.52.06:947][367]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2023.03.19-19.52.06:957][367]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.52.06:960][367]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.52.06
+[2023.03.19-19.52.06:960][367]LogWorld: Bringing up level for play took: 0.001233
+[2023.03.19-19.52.06:960][367]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2023.03.19-19.52.06:963][367]PIE: Server logged in
+[2023.03.19-19.52.06:964][367]PIE: Play in editor total start time 0,195 seconds.
+[2023.03.19-19.52.19:238][310]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-19.52.19:238][310]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-19.52.19:238][310]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.52.19:238][310]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.52.19:239][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.52.19:331][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.52.19:337][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2023.03.19-19.52.19:339][310]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.52.19:347][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007452s)
+[2023.03.19-19.52.19:348][310]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-19.52.19:348][310]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2023.03.19-19.52.19:348][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008677s)
+[2023.03.19-19.52.19:348][310]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2023.03.19-19.52.19:348][310]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-19.52.19:349][310]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-20.52.19
+[2023.03.19-19.52.19:349][310]LogWorld: Bringing up level for play took: 0.001023
+[2023.03.19-19.52.19:350][310]LogLoad: Took 0.112577 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-19.52.37:228][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.52.37:228][444]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-19.52.37:229][444]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-19.52.37:229][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.52.37:248][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-19.52.37:255][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-19.52.37:298][444]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-19.52.37:298][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.52.37:299][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-19.52.37:316][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-19.52.37:321][444]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.03.19-19.52.37:344][445]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.03.19-19.52.46:449][164]LogEditorViewport: Clicking Background
+[2023.03.19-19.52.47:747][259]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-19.53.11:531][957]Cmd: EDIT COPY
+[2023.03.19-19.53.11:987][996]Cmd: EDIT PASTE
+[2023.03.19-19.53.20:053][562]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight2)
+[2023.03.19-19.53.34:701][625]Cmd: DELETE
+[2023.03.19-19.53.34:701][625]Cmd: ACTOR DELETE
+[2023.03.19-19.53.34:707][625]LogEditorActor: Deleted Actor: SkyLight
+[2023.03.19-19.53.34:760][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2023.03.19-19.53.34:764][625]LogEditorActor: Deleted 1 Actors (0.062 secs)
+[2023.03.19-19.53.36:898][788]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-19.53.46:668][429]LogEditorViewport: Clicking Background
+[2023.03.19-19.53.50:016][658]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.03.19-19.53.58:791][226]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.19-19.54.04:811][585]LogEditorViewport: Clicking Background
+[2023.03.19-19.54.07:009][742]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.03.19-19.54.20:640][603]LogEditorViewport: Clicking Background
+[2023.03.19-19.54.28:045][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2023.03.19-19.54.28:106][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.03.19-19.54.28:126][ 29]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level16A75C1F9426EC00F3BEA83989DC286CE.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.19-19.54.28:136][ 29]LogFileHelpers: Saving map 'Level1' took 0.070
+[2023.03.19-19.54.28:145][ 29]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_RestartTrigger_01B73F86554FAE967E6A41E383F407532A.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_RestartTrigger_01.uasset'
+[2023.03.19-19.54.28:165][ 29]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.19-19.54.28:165][ 29]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.19-19.54.28:165][ 29]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_RestartTrigger_01.BP_RestartTrigger_01
+[2023.03.19-19.54.39:283][781]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight8)
+[2023.03.19-19.54.40:955][890]LogEditorViewport: Clicking Background
+[2023.03.19-19.54.54:726][917]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2023.03.19-19.54.55:760][990]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2023.03.19-19.54.56:537][ 41]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2023.03.19-19.54.58:346][160]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2023.03.19-19.55.02:376][428]LogEditorViewport: Clicking Background
+[2023.03.19-19.55.18:528][274]LogEditorViewport: Clicking Background
+[2023.03.19-19.55.26:116][769]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.03.19-19.55.30:177][ 50]Cmd: EDIT COPY
+[2023.03.19-19.55.30:853][ 98]Cmd: EDIT PASTE
+[2023.03.19-19.56.08:062][963]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.19-19.57.19:545][537]LogEditorViewport: Clicking Background
+[2023.03.19-19.57.31:322][195]LogEditorViewport: Clicking Background
+[2023.03.19-19.57.40:655][689]LogEditorViewport: Clicking Background
+[2023.03.19-19.57.42:079][763]LogEditorViewport: Clicking Background
+[2023.03.19-19.58.05:493][ 17]LogEditorViewport: Clicking Background
+[2023.03.19-19.58.10:010][268]LogEditorViewport: Clicking Background
+[2023.03.19-19.58.21:864][966]LogGeometryMode: Warning: Unable to find BoxBrush11 Brush(s) in new BSP
+[2023.03.19-19.58.21:864][966]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-19.58.23:238][ 40]LogEditorViewport: Clicking Background
+[2023.03.19-19.58.46:661][271]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2023.03.19-19.59.37:022][730]LogEditorViewport: Clicking on Actor (LMB): BP_RestartTrigger_01_C (BP_RestartTrigger_01)
+[2023.03.19-20.00.16:771][453]LogEditorViewport: Clicking Background
+[2023.03.19-20.00.24:147][948]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-20.00.24:156][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-20.00.24:156][948]PIE: New page: PIE session: Level1 (19 mar 2023, 22:00:24)
+[2023.03.19-20.00.24:156][948]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.00.24:164][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008081s)
+[2023.03.19-20.00.24:165][948]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-20.00.24:165][948]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2023.03.19-20.00.24:165][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.009468s)
+[2023.03.19-20.00.24:229][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.03.19-20.00.24:235][948]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-20.00.24:235][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-20.00.24:235][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-20.00.24:235][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-20.00.24:235][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-20.00.24:235][948]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-20.00.24:238][948]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-20.00.24:238][948]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-20.00.24:341][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-20.00.24:341][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-20.00.24:342][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-20.00.24:342][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-20.00.24:342][948]LogInit: FAudioDevice initialized.
+[2023.03.19-20.00.24:342][948]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2023.03.19-20.00.24:354][948]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-20.00.24:356][948]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-21.00.24
+[2023.03.19-20.00.24:356][948]LogWorld: Bringing up level for play took: 0.001413
+[2023.03.19-20.00.24:356][948]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.03.19-20.00.24:359][948]PIE: Server logged in
+[2023.03.19-20.00.24:360][948]PIE: Play in editor total start time 0,207 seconds.
+[2023.03.19-20.00.46:846][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.00.46:846][581]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.00.46:847][581]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-20.00.46:847][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.00.46:863][581]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-20.00.46:869][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.00.46:913][581]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-20.00.46:913][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.00.46:916][581]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.00.46:932][581]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.00.46:936][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2023.03.19-20.00.46:958][582]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.03.19-20.00.50:620][955]LogEditorViewport: Clicking Background
+[2023.03.19-20.01.11:758][399]Cmd: DUPLICATE
+[2023.03.19-20.01.11:758][399]Cmd: ACTOR DUPLICATE
+[2023.03.19-20.01.14:373][555]Cmd: TRANSACTION UNDO
+[2023.03.19-20.01.14:373][555]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.01.14:412][555]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F3E01CFD0158195B5B2CAA8B23E5BDCCE4F686E), compiling. 
+[2023.03.19-20.01.14:421][555]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.01.14:509][557]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-20.01.14:509][557]LogShaderCompilers: Display: Total job queries 191, among them cache hits 153 (80.10%)
+[2023.03.19-20.01.14:509][557]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-20.01.14:509][557]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-20.01.14:509][557]LogShaderCompilers: Display: ================================================
+[2023.03.19-20.01.14:534][558]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.01.14:534][558]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.01.14:534][558]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.01.14:534][558]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.01.22:928][ 25]Cmd: TRANSACTION UNDO
+[2023.03.19-20.01.22:928][ 25]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.01.22:970][ 25]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 85B521A0CBA6A979C45359DDA33E6325FB958DCE), compiling. 
+[2023.03.19-20.01.22:980][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.01.23:150][ 28]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.01.23:150][ 28]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.01.23:150][ 28]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.01.23:150][ 28]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.01.29:863][422]Cmd: TRANSACTION UNDO
+[2023.03.19-20.01.29:863][422]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.01.29:900][422]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 6029D24485046B53AD5688087FDD17D5CE009629), compiling. 
+[2023.03.19-20.01.29:909][422]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.01.30:080][425]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.01.30:082][425]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.01.30:082][425]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.01.30:082][425]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.01.37:408][859]Cmd: TRANSACTION UNDO
+[2023.03.19-20.01.37:408][859]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.01.37:444][859]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: ACC7AE8561EDF0E01FC726076BFCC1FC234B0160), compiling. 
+[2023.03.19-20.01.37:453][859]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.01.37:609][862]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.01.37:609][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.01.37:609][862]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.01.37:609][862]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.01.47:258][294]LogEditorViewport: Clicking Background
+[2023.03.19-20.02.23:060][867]LogEditorViewport: Clicking Background
+[2023.03.19-20.02.36:535][825]LogEditorViewport: Clicking Background
+[2023.03.19-20.02.43:818][338]LogEditorViewport: Clicking Background
+[2023.03.19-20.02.57:832][254]LogEditorViewport: Clicking Background
+[2023.03.19-20.03.03:814][709]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.03.19-20.03.12:426][332]LogEditorViewport: Clicking Background
+[2023.03.19-20.04.37:125][749]LogEditorViewport: Clicking Background
+[2023.03.19-20.04.37:838][792]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-20.04.37:847][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-20.04.37:847][792]PIE: New page: PIE session: Level1 (19 mar 2023, 22:04:37)
+[2023.03.19-20.04.37:848][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.04.37:858][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010502s)
+[2023.03.19-20.04.37:859][792]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-20.04.37:859][792]LogPlayLevel: PIE: World Init took: (0.001321s)
+[2023.03.19-20.04.37:859][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.011987s)
+[2023.03.19-20.04.37:924][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2023.03.19-20.04.37:929][792]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.03.19-20.04.37:929][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-20.04.37:929][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-20.04.37:929][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-20.04.37:930][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-20.04.37:930][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-20.04.37:930][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-20.04.37:930][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-20.04.37:930][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-20.04.37:930][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-20.04.37:930][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-20.04.37:930][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-20.04.37:930][792]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-20.04.37:933][792]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-20.04.37:933][792]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-20.04.38:040][792]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-20.04.38:040][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-20.04.38:040][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-20.04.38:040][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-20.04.38:042][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-20.04.38:042][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-20.04.38:042][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-20.04.38:044][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-20.04.38:044][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-20.04.38:044][792]LogInit: FAudioDevice initialized.
+[2023.03.19-20.04.38:044][792]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2023.03.19-20.04.38:051][792]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-20.04.38:052][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-21.04.38
+[2023.03.19-20.04.38:053][792]LogWorld: Bringing up level for play took: 0.001197
+[2023.03.19-20.04.38:053][792]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2023.03.19-20.04.38:055][792]PIE: Server logged in
+[2023.03.19-20.04.38:057][792]PIE: Play in editor total start time 0,213 seconds.
+[2023.03.19-20.05.24:006][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.05.24:006][738]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.05.24:006][738]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-20.05.24:006][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.05.24:020][738]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-20.05.24:026][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.05.24:072][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.05.24:072][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.05.24:074][738]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.05.24:094][738]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.03.19-20.05.24:116][739]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.03.19-20.05.33:482][409]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2023.03.19-20.05.36:521][613]LogEditorViewport: Clicking Background
+[2023.03.19-20.05.40:906][922]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight4)
+[2023.03.19-20.05.42:097][  6]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight3)
+[2023.03.19-20.05.43:305][ 84]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight2)
+[2023.03.19-20.05.44:618][179]LogEditorViewport: Clicking on Actor (CTRL LMB): SpotLight (SpotLight)
+[2023.03.19-20.05.55:850][929]Cmd: EDIT COPY
+[2023.03.19-20.05.56:204][955]Cmd: EDIT PASTE
+[2023.03.19-20.06.27:638][220]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.06.37:413][853]LogEditorViewport: Clicking Background
+[2023.03.19-20.06.44:166][274]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.06.50:243][680]LogEditorViewport: Clicking on Actor (LMB): BP_Crystal_01_C (BP_Crystal_3)
+[2023.03.19-20.06.54:990][970]LogEditorViewport: Clicking Background
+[2023.03.19-20.07.00:386][313]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.07.15:527][240]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.19-20.07.22:263][573]LogEditorViewport: Clicking on Actor (LMB): BP_RestartTrigger_01_C (BP_RestartTrigger_01)
+[2023.03.19-20.07.23:442][629]LogEditorViewport: Clicking Background
+[2023.03.19-20.07.28:497][931]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.07.43:976][835]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.03.19-20.07.45:079][892]Cmd: EDIT COPY
+[2023.03.19-20.07.46:498][970]Cmd: EDIT PASTE
+[2023.03.19-20.08.01:162][733]LogEditorViewport: Clicking Background
+[2023.03.19-20.08.02:216][795]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.03.19-20.08.19:961][837]LogEditorViewport: Clicking Background
+[2023.03.19-20.08.20:928][894]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.03.19-20.08.23:398][ 44]Cmd: DELETE
+[2023.03.19-20.08.23:398][ 44]Cmd: ACTOR DELETE
+[2023.03.19-20.08.23:409][ 44]LogEditorActor: Deleted Actor: PointLight
+[2023.03.19-20.08.23:473][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.03.19-20.08.23:475][ 44]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2023.03.19-20.08.25:777][194]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight9)
+[2023.03.19-20.08.27:158][275]Cmd: EDIT COPY
+[2023.03.19-20.08.27:470][294]Cmd: EDIT PASTE
+[2023.03.19-20.08.39:535][922]LogSlate: Window 'Color Picker' being destroyed
+[2023.03.19-20.08.41:221][ 20]LogEditorViewport: Clicking Background
+[2023.03.19-20.08.45:944][285]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight17)
+[2023.03.19-20.08.48:637][431]Cmd: DELETE
+[2023.03.19-20.08.48:637][431]Cmd: ACTOR DELETE
+[2023.03.19-20.08.48:645][431]LogEditorActor: Deleted Actor: SpotLight
+[2023.03.19-20.08.48:694][431]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2023.03.19-20.08.48:696][431]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2023.03.19-20.08.51:926][620]Cmd: TRANSACTION UNDO
+[2023.03.19-20.08.51:926][620]LogEditorTransaction: Undo Delete Actors
+[2023.03.19-20.08.51:940][620]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 894655E40393D07A2DB6986740E7944FBE58B265), compiling. 
+[2023.03.19-20.08.51:948][620]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.08.52:047][622]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-20.08.52:047][622]LogShaderCompilers: Display: Total job queries 231, among them cache hits 193 (83.55%)
+[2023.03.19-20.08.52:047][622]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-20.08.52:047][622]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-20.08.52:047][622]LogShaderCompilers: Display: ================================================
+[2023.03.19-20.08.52:106][623]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.08.52:106][623]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.08.52:106][623]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.08.52:107][623]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.08.57:639][897]LogEditorViewport: Clicking Background
+[2023.03.19-20.09.03:489][269]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.09.08:766][643]LogEditorViewport: Clicking Background
+[2023.03.19-20.09.12:562][910]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.09.21:754][435]LogEditorViewport: Clicking Background
+[2023.03.19-20.09.25:844][714]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.09.30:288][  8]LogEditorViewport: Clicking Background
+[2023.03.19-20.09.49:867][329]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.03.19-20.10.31:401][967]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2023.03.19-20.10.45:760][928]Cmd: TRANSACTION UNDO
+[2023.03.19-20.10.45:760][928]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.10.45:781][928]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2023.03.19-20.10.45:781][928]LogGeometryMode: Warning: Unable to resolve BoxBrush15 Brush in new BSP, see above
+[2023.03.19-20.10.45:781][928]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-20.10.45:800][928]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C6A9E928EE2876D7ACF87B76DC6C729DBC3593C5), compiling. 
+[2023.03.19-20.10.45:807][928]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.10.45:946][931]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.10.45:946][931]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.10.45:946][931]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.10.45:946][931]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.10.54:830][254]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2023.03.19-20.11.35:342][678]Cmd: TRANSACTION UNDO
+[2023.03.19-20.11.35:342][678]LogEditorTransaction: Undo Modifier [Edit]
+[2023.03.19-20.11.35:360][678]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C8A29095EBE6AD051094F5D55D31524BAB40E8CA), compiling. 
+[2023.03.19-20.11.35:367][678]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.11.35:490][681]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.11.35:490][681]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.11.35:490][681]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.11.35:490][681]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.11.37:124][754]Cmd: TRANSACTION UNDO
+[2023.03.19-20.11.37:124][754]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.11.37:142][754]LogGeometryMode: Warning: Unable to find 1 Edge(s) in new BSP
+[2023.03.19-20.11.37:142][754]LogGeometryMode: Warning: Unable to resolve BoxBrush15 Brush in new BSP, see above
+[2023.03.19-20.11.37:142][754]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-20.11.37:155][754]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 450DD8D1387BF57267CFB14A7B732E1F10793B50), compiling. 
+[2023.03.19-20.11.37:159][754]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.11.37:201][757]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.11.37:229][758]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.11.37:229][758]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.11.37:229][758]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.11.37:229][758]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.12.01:667][412]LogEditorViewport: Clicking Background
+[2023.03.19-20.12.05:581][708]LogEditorViewport: Clicking Background
+[2023.03.19-20.12.11:457][114]Cmd: TRANSACTION UNDO
+[2023.03.19-20.12.11:457][114]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.12.11:481][114]LogGeometryMode: Warning: Unable to find 1 Vertex(s) in new BSP
+[2023.03.19-20.12.11:481][114]LogGeometryMode: Warning: Unable to resolve BoxBrush15 Brush in new BSP, see above
+[2023.03.19-20.12.11:481][114]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-20.12.11:507][114]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 080D85DA591D1E3F5A116BE9599CF1CD4F871D2E), compiling. 
+[2023.03.19-20.12.11:518][114]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.12.11:672][116]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-20.12.11:672][116]LogShaderCompilers: Display: Total job queries 279, among them cache hits 241 (86.38%)
+[2023.03.19-20.12.11:672][116]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-20.12.11:672][116]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-20.12.11:672][116]LogShaderCompilers: Display: ================================================
+[2023.03.19-20.12.11:713][117]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.12.11:713][117]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.12.11:713][117]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.12.11:713][117]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.12.13:626][203]LogEditorViewport: Clicking Background
+[2023.03.19-20.12.48:128][352]LogEditorViewport: Clicking Background
+[2023.03.19-20.12.52:045][621]LogEditorViewport: Clicking Background
+[2023.03.19-20.12.54:024][755]LogEditorViewport: Clicking Background
+[2023.03.19-20.13.03:271][386]LogEditorViewport: Clicking Background
+[2023.03.19-20.13.04:351][468]LogEditorViewport: Clicking Background
+[2023.03.19-20.13.38:818][846]LogEditorViewport: Clicking Background
+[2023.03.19-20.14.03:647][531]LogGeometryMode: Warning: Unable to find BoxBrush3 Brush(s) in new BSP
+[2023.03.19-20.14.03:647][531]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2023.03.19-20.14.26:308][  2]LogEditorViewport: Clicking Background
+[2023.03.19-20.14.28:781][186]LogEditorViewport: Clicking Background
+[2023.03.19-20.14.58:317][249]LogEditorViewport: Clicking Background
+[2023.03.19-20.15.20:412][851]LogEditorViewport: Clicking Background
+[2023.03.19-20.15.58:981][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2023.03.19-20.15.59:015][268]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto9C5632CC547E85C6BE05B41BB81016377.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto9.umap'
+[2023.03.19-20.15.59:016][268]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.085
+[2023.03.19-20.15.59:016][268]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2023.03.19-20.16.05:277][683]LogEditorViewport: Clicking Background
+[2023.03.19-20.17.20:879][361]Cmd: TRANSACTION UNDO
+[2023.03.19-20.17.20:879][361]LogEditorTransaction: Undo Move Actors
+[2023.03.19-20.17.20:891][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2235' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:891][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2235.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2236' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2236.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2237' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2237.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2238' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2238.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2239' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2239.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2240' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2240.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2241' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2241.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2242' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2242.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2243' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2243.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2244' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:892][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2244.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2245' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2245.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2246' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2246.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2247' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2247.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2248' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2248.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2249' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2249.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2250' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2250.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2251' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2251.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2252' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:893][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2252.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2253' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2253.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2254' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2254.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2255' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2255.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2256' invalid (1144 verts, 0 indices).
+[2023.03.19-20.17.20:894][361]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Level1.Level1:PersistentLevel.ModelComponent_2256.BodySetup_0 when we are unable to.
+[2023.03.19-20.17.20:921][361]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 103013FCD9C0E59C9EEC28F9DB5D059B08476C60), compiling. 
+[2023.03.19-20.17.20:932][361]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.17.21:054][363]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.19-20.17.21:054][363]LogShaderCompilers: Display: Total job queries 289, among them cache hits 251 (86.85%)
+[2023.03.19-20.17.21:054][363]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.03.19-20.17.21:054][363]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.03.19-20.17.21:054][363]LogShaderCompilers: Display: ================================================
+[2023.03.19-20.17.21:069][364]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.17.21:069][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.17.21:069][364]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.17.21:069][364]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.17.21:761][396]LogEditorViewport: Clicking Background
+[2023.03.19-20.17.36:674][274]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.03.19-20.17.38:399][374]Cmd: EDIT COPY
+[2023.03.19-20.17.38:755][394]Cmd: EDIT PASTE
+[2023.03.19-20.17.46:099][874]Cmd: EDIT COPY
+[2023.03.19-20.17.46:572][908]Cmd: EDIT PASTE
+[2023.03.19-20.17.55:430][502]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.03.19-20.17.56:218][553]Cmd: EDIT COPY
+[2023.03.19-20.17.56:704][581]Cmd: EDIT PASTE
+[2023.03.19-20.18.00:593][810]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.18.04:002][  0]LogEditorViewport: Clicking Background
+[2023.03.19-20.18.05:062][ 70]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-20.18.05:069][ 70]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-20.18.05:069][ 70]PIE: New page: PIE session: Level1 (19 mar 2023, 22:18:05)
+[2023.03.19-20.18.05:070][ 70]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.18.05:085][ 70]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015024s)
+[2023.03.19-20.18.05:087][ 70]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-20.18.05:087][ 70]LogPlayLevel: PIE: World Init took: (0.001801s)
+[2023.03.19-20.18.05:087][ 70]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.016997s)
+[2023.03.19-20.18.05:136][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2023.03.19-20.18.05:141][ 70]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-20.18.05:141][ 70]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-20.18.05:141][ 70]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-20.18.05:141][ 70]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-20.18.05:141][ 70]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-20.18.05:141][ 70]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-20.18.05:144][ 70]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-20.18.05:144][ 70]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-20.18.05:241][ 70]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-20.18.05:241][ 70]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-20.18.05:241][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-20.18.05:241][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-20.18.05:242][ 70]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-20.18.05:242][ 70]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-20.18.05:242][ 70]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-20.18.05:244][ 70]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-20.18.05:244][ 70]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-20.18.05:244][ 70]LogInit: FAudioDevice initialized.
+[2023.03.19-20.18.05:244][ 70]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2023.03.19-20.18.05:252][ 70]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-20.18.05:255][ 70]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-21.18.05
+[2023.03.19-20.18.05:255][ 70]LogWorld: Bringing up level for play took: 0.001589
+[2023.03.19-20.18.05:255][ 70]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.03.19-20.18.05:258][ 70]PIE: Server logged in
+[2023.03.19-20.18.05:259][ 70]PIE: Play in editor total start time 0,192 seconds.
+[2023.03.19-20.18.51:116][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.18.51:116][688]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.18.51:116][688]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-20.18.51:117][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.18.51:130][688]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-20.18.51:137][688]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.18.51:186][688]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-20.18.51:187][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.18.51:188][688]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.18.51:204][688]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.18.51:209][688]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2023.03.19-20.18.51:234][689]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.03.19-20.18.54:597][930]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2023.03.19-20.19.00:021][303]Cmd: DELETE
+[2023.03.19-20.19.00:022][303]Cmd: ACTOR DELETE
+[2023.03.19-20.19.00:038][303]LogEditorActor: Deleted Actor: PointLight
+[2023.03.19-20.19.00:088][303]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.03.19-20.19.00:089][303]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2023.03.19-20.19.06:496][724]Cmd: TRANSACTION UNDO
+[2023.03.19-20.19.06:496][724]LogEditorTransaction: Undo Delete Actors
+[2023.03.19-20.19.06:511][724]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D591E0969ABA1BFB957627340FC5C905231C3C3F), compiling. 
+[2023.03.19-20.19.06:517][724]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.19.06:679][727]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.19.06:679][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.19.06:679][727]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.19.06:679][727]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.19.12:901][148]LogEditorViewport: Clicking Background
+[2023.03.19-20.19.18:482][532]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2023.03.19-20.19.24:739][889]LogEditorViewport: Clicking Background
+[2023.03.19-20.19.27:475][ 67]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2023.03.19-20.19.33:684][494]LogEditorViewport: Clicking Background
+[2023.03.19-20.19.38:149][771]Cmd: TRANSACTION UNDO
+[2023.03.19-20.19.38:149][771]LogEditorTransaction: Undo Clicking Background
+[2023.03.19-20.19.38:159][771]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: EF73C22D6C0C42618ADCC02C1368ED484342C4B3), compiling. 
+[2023.03.19-20.19.38:168][771]MaterialEditorStats: Texture samplers: 0/16
+[2023.03.19-20.19.38:339][774]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.03.19-20.19.38:339][774]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.03.19-20.19.38:339][774]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.03.19-20.19.38:339][774]MaterialEditorStats: Texture samplers: 2/16
+[2023.03.19-20.19.42:569][ 25]LogEditorViewport: Clicking Background
+[2023.03.19-20.19.58:350][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-20.19.58:360][ 25]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.19-20.19.58:360][ 25]PIE: New page: PIE session: Level1 (19 mar 2023, 22:19:58)
+[2023.03.19-20.19.58:360][ 25]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.19.58:372][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013277s)
+[2023.03.19-20.19.58:374][ 25]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-20.19.58:374][ 25]LogPlayLevel: PIE: World Init took: (0.001652s)
+[2023.03.19-20.19.58:374][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.015107s)
+[2023.03.19-20.19.58:426][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2023.03.19-20.19.58:428][ 25]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-20.19.58:428][ 25]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-20.19.58:428][ 25]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-20.19.58:428][ 25]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-20.19.58:428][ 25]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-20.19.58:428][ 25]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-20.19.58:430][ 25]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-20.19.58:430][ 25]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-20.19.58:544][ 25]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-20.19.58:545][ 25]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-20.19.58:546][ 25]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-20.19.58:546][ 25]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-20.19.58:546][ 25]LogInit: FAudioDevice initialized.
+[2023.03.19-20.19.58:546][ 25]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level1'.
+[2023.03.19-20.19.58:557][ 25]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-20.19.58:559][ 25]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.03.19-21.19.58
+[2023.03.19-20.19.58:559][ 25]LogWorld: Bringing up level for play took: 0.001310
+[2023.03.19-20.19.58:559][ 25]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.03.19-20.19.58:563][ 25]PIE: Server logged in
+[2023.03.19-20.19.58:565][ 25]PIE: Play in editor total start time 0,208 seconds.
+[2023.03.19-20.20.17:156][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.20.17:156][171]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-20.20.17:157][171]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-20.20.17:157][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.20.17:168][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-20.20.17:176][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-20.20.17:224][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-20.20.17:224][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.20.17:226][171]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-20.20.17:242][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-20.20.17:247][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.03.19-20.20.17:268][172]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.03.19-20.20.27:214][971]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2023.03.19-20.20.33:909][524]LogEditorViewport: Clicking Background
+[2023.03.19-20.20.56:932][943]LogEditorViewport: Clicking Background
