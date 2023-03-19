@@ -2770,3 +2770,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-20.20.27:214][971]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
 [2023.03.19-20.20.33:909][524]LogEditorViewport: Clicking Background
 [2023.03.19-20.20.56:932][943]LogEditorViewport: Clicking Background
+[2023.03.19-20.22.49:037][110]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2023.03.19-20.22.49:094][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.03.19-20.22.49:123][110]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level166F350F24ED25965F8BAE0A98A3539A3.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.19-20.22.49:150][110]LogFileHelpers: Saving map 'Level1' took 0.093
+[2023.03.19-20.22.49:169][110]AssetCheck: New page: Asset Save: Level1
+[2023.03.19-20.22.49:169][110]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
