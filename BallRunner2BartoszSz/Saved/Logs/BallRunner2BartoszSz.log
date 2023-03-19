@@ -1569,3 +1569,183 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.03.19-18.29.15:034][869]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_RestartTrigger_01.BP_RestartTrigger_01
 [2023.03.19-18.29.15:034][869]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Cannon_Base.Cannon_Base
 [2023.03.19-18.29.15:034][869]LogContentValidation: Display: Validating StaticMesh /Game/Meshes/Cannon.Cannon
+[2023.03.19-18.31.53:840][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2023.03.19-18.31.53:901][293]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_0126E8A35A434CBB48EBC44F86D8704844.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Cannon_01.uasset'
+[2023.03.19-18.31.53:921][293]AssetCheck: New page: Asset Save: BP_Cannon_01
+[2023.03.19-18.31.53:921][293]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01
+[2023.03.19-18.32.08:116][ 66]LogEditorViewport: Clicking on Actor (LMB): BP_Ball_01_C (BP_Ball_01)
+[2023.03.19-18.32.14:960][363]LogEditorViewport: Clicking Background
+[2023.03.19-18.33.04:955][ 15]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.19-18.33.04:969][ 15]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.19-18.33.04:986][ 15]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.19-18.33.13:183][493]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Projectiles
+[2023.03.19-18.33.13:189][493]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.19-18.33.27:350][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Actors/BP_Projectiles.BP_Projectiles
+[2023.03.19-18.36.31:254][431]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.19-18.36.31:275][431]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.19-18.39.51:553][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2023.03.19-18.39.51:575][642]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto617404B54479AEBBE70CC3FA2BB746305.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto6.umap'
+[2023.03.19-18.39.51:578][642]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.105
+[2023.03.19-18.39.51:578][642]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.105
+[2023.03.19-18.39.51:578][642]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon_01] ([2] browsable assets)...
+[2023.03.19-18.39.51:600][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01]
+[2023.03.19-18.39.51:600][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
+[2023.03.19-18.39.51:644][642]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto6405314014C35A4116A8C85BB9510632B.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto6.uasset'
+[2023.03.19-18.39.51:644][642]LogFileHelpers: Auto-saving content packages took 0.067
+[2023.03.19-18.41.23:420][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.03.19-18.41.23:487][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2023.03.19-18.41.23:502][141]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1F542E9094DF9ED1273097F8B3379C07D.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.19-18.41.23:507][141]LogFileHelpers: Saving map 'Level1' took 0.058
+[2023.03.19-18.41.23:512][141]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01EE0713604A30ECDCAC8E97A447B8A42B.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Cannon_01.uasset'
+[2023.03.19-18.41.23:542][141]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Projectiles0BD7EC4E4AE66EBFE4FF8CBE68B9D389.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Projectiles.uasset'
+[2023.03.19-18.41.23:563][141]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.19-18.41.23:563][141]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.19-18.41.23:563][141]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectiles.BP_Projectiles
+[2023.03.19-18.41.23:563][141]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01
+[2023.03.19-18.42.12:548][104]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.19-18.42.12:557][104]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.03.19-18.42.12:558][104]LogPlayLevel: [PlayLevel] Compiling BP_RestartTrigger_01 before play...
+[2023.03.19-18.42.12:596][104]LogPlayLevel: [PlayLevel] Compiling BP_Cannon_01 before play...
+[2023.03.19-18.42.12:648][104]LogPlayLevel: [PlayLevel] Compiling BP_Projectiles before play...
+[2023.03.19-18.42.12:734][104]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.03.19-18.42.12:737][104]LogPlayLevel: PlayLevel: Blueprint regeneration took 179 ms (3 blueprints)
+[2023.03.19-18.42.12:737][104]PIE: New page: PIE session: Level1 (19 mar 2023, 20:42:12)
+[2023.03.19-18.42.12:737][104]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.12:749][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011307s)
+[2023.03.19-18.42.12:750][104]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-18.42.12:750][104]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2023.03.19-18.42.12:750][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.012628s)
+[2023.03.19-18.42.12:796][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.03.19-18.42.12:797][104]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.19-18.42.12:797][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.19-18.42.12:797][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.19-18.42.12:798][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.19-18.42.12:798][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.19-18.42.12:798][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.19-18.42.12:798][104]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.19-18.42.12:801][104]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.19-18.42.12:801][104]LogAudioMixer: Display: 1: FrontRight
+[2023.03.19-18.42.12:905][104]LogAudioMixer: Display: Using Audio Device Słuchawki (Realtek(R) Audio)
+[2023.03.19-18.42.12:905][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.19-18.42.12:906][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.19-18.42.12:906][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.19-18.42.12:907][104]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.19-18.42.12:907][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.19-18.42.12:907][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.19-18.42.12:909][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.19-18.42.12:909][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.19-18.42.12:909][104]LogInit: FAudioDevice initialized.
+[2023.03.19-18.42.12:909][104]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.03.19-18.42.12:920][104]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-18.42.12:923][104]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.03.19-19.42.12
+[2023.03.19-18.42.12:923][104]LogWorld: Bringing up level for play took: 0.003336
+[2023.03.19-18.42.12:925][104]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.03.19-18.42.12:929][104]PIE: Server logged in
+[2023.03.19-18.42.12:930][104]PIE: Play in editor total start time 0,376 seconds.
+[2023.03.19-18.42.16:857][324]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-18.42.16:857][324]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-18.42.16:857][324]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.16:858][324]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-18.42.16:862][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-18.42.16:915][324]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-18.42.16:919][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.19-18.42.16:920][324]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.16:927][324]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006319s)
+[2023.03.19-18.42.16:929][324]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-18.42.16:929][324]LogPlayLevel: PIE: World Init took: (0.002108s)
+[2023.03.19-18.42.16:930][324]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008668s)
+[2023.03.19-18.42.16:930][324]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.03.19-18.42.16:930][324]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-18.42.16:932][324]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.03.19-19.42.16
+[2023.03.19-18.42.16:932][324]LogWorld: Bringing up level for play took: 0.000931
+[2023.03.19-18.42.16:932][324]LogLoad: Took 0.074599 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-18.42.21:190][569]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-18.42.21:190][569]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-18.42.21:190][569]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.21:193][569]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-18.42.21:196][569]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-18.42.21:249][569]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-18.42.21:256][569]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.03.19-18.42.21:258][569]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.21:264][569]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005667s)
+[2023.03.19-18.42.21:265][569]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-18.42.21:266][569]LogPlayLevel: PIE: World Init took: (0.002200s)
+[2023.03.19-18.42.21:266][569]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008189s)
+[2023.03.19-18.42.21:266][569]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.03.19-18.42.21:266][569]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-18.42.21:269][569]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.03.19-19.42.21
+[2023.03.19-18.42.21:270][569]LogWorld: Bringing up level for play took: 0.001205
+[2023.03.19-18.42.21:271][569]LogLoad: Took 0.080059 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-18.42.25:509][813]LogNet: Browse: /Game/Levels/Level1
+[2023.03.19-18.42.25:509][813]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.03.19-18.42.25:510][813]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.25:511][813]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-18.42.25:514][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-18.42.25:563][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-18.42.25:567][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.03.19-18.42.25:569][813]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.25:577][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007586s)
+[2023.03.19-18.42.25:577][813]LogAIModule: Creating AISystem for world Level1
+[2023.03.19-18.42.25:578][813]LogPlayLevel: PIE: World Init took: (0.000890s)
+[2023.03.19-18.42.25:578][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.008638s)
+[2023.03.19-18.42.25:578][813]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.03.19-18.42.25:578][813]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.03.19-18.42.25:579][813]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.03.19-19.42.25
+[2023.03.19-18.42.25:579][813]LogWorld: Bringing up level for play took: 0.000787
+[2023.03.19-18.42.25:580][813]LogLoad: Took 0.070605 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.03.19-18.42.26:545][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-18.42.26:545][867]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.03.19-18.42.26:546][867]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.03.19-18.42.26:546][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-18.42.26:563][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.19-18.42.26:577][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.19-18.42.26:625][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.19-18.42.26:625][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-18.42.26:627][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.19-18.42.26:640][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.19-18.42.26:647][867]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2023.03.19-18.42.26:678][868]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.03.19-18.42.32:995][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2023.03.19-18.42.33:068][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.03.19-18.42.33:082][195]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level187B92BBA46C6B4A54D0C6593D546C8DC.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.03.19-18.42.33:088][195]LogFileHelpers: Saving map 'Level1' took 0.063
+[2023.03.19-18.42.33:126][195]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Projectiles721F83F8400225FD3FF2D99B2998C01C.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Projectiles.uasset'
+[2023.03.19-18.42.33:144][195]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.19-18.42.33:144][195]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.03.19-18.42.33:144][195]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectiles.BP_Projectiles
+[2023.03.19-19.08.29:313][833]LogHttp: Warning: 000001E89F3E1D00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B798A3AE4-4405-4762-BE37-A1AA3BA1F0F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: request failed, libcurl error: 0 (No error)
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1e8bae9beb0 [can pipeline])
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.207.118.112) port 443 (#1))
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.03.19-19.08.29:314][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.03.19-19.08.29:315][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.03.19-19.08.29:315][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 7 (Closing connection 1)
+[2023.03.19-19.08.29:315][833]LogHttp: Warning: 000001E89F3E1D00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.03.19-19.08.29:315][833]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B798A3AE4-4405-4762-BE37-A1AA3BA1F0F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B798A3AE4-4405-4762-BE37-A1AA3BA1F0F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 0 (  Trying 3.218.162.55...)
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 1 (TCP_NODELAY set)
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.218.162.55) port 443 (#2))
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2023.03.19-19.09.19:106][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 5 (SSL re-using session ID)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 6 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 7 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 8 (TLSv1.3 (IN), TLS Unknown, Certificate Status (22):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 9 (TLSv1.3 (IN), TLS handshake, Unknown (8):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 10 (TLSv1.3 (IN), TLS Unknown, Certificate Status (22):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 11 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 12 (TLSv1.3 (OUT), TLS alert, Server hello (2):)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 13 (SSL certificate problem: self signed certificate)
+[2023.03.19-19.09.19:107][296]LogHttp: Warning: 000001E9619C4800: libcurl info message cache 14 (Closing connection 2)
+[2023.03.19-19.09.19:439][297]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B798A3AE4-4405-4762-BE37-A1AA3BA1F0F9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=38436ded4b901d846747cf9b16d2efcc%7C322389b7011a48aab541b26d2ea5edb5%7C2f5b73ce-1b0e-4a28-8dc9-fc5d67f6775c&AppEnvironment=datacollector-binary&UploadType=eteventstream
