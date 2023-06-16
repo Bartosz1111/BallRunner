@@ -1552,3 +1552,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.16-18.55.18:000][317]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2023.06.16-18.55.18:005][317]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
 [2023.06.16-18.55.18:034][318]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.06.16-18.55.48:319][744]BlueprintLog: New page: Compile BP_Projectiles
+[2023.06.16-18.55.48:378][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2023.06.16-18.55.50:013][817]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.16-18.55.50:024][817]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.55.50:024][817]PIE: New page: PIE session: Level1 (16 cze 2023, 22:55:50)
+[2023.06.16-18.55.50:024][817]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-18.55.50:036][817]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012494s)
+[2023.06.16-18.55.50:037][817]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-18.55.50:038][817]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2023.06.16-18.55.50:038][817]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.013838s)
+[2023.06.16-18.55.50:076][817]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2023.06.16-18.55.50:077][817]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.55.50:077][817]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.55.50:077][817]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.55.50:077][817]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.55.50:077][817]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.55.50:077][817]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.16-18.55.50:080][817]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.16-18.55.50:080][817]LogAudioMixer: Display: 1: FrontRight
+[2023.06.16-18.55.50:185][817]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.16-18.55.50:187][817]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.16-18.55.50:187][817]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.16-18.55.50:187][817]LogInit: FAudioDevice initialized.
+[2023.06.16-18.55.50:187][817]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.06.16-18.55.50:198][817]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-18.55.50:200][817]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.06.16-20.55.50
+[2023.06.16-18.55.50:201][817]LogWorld: Bringing up level for play took: 0.001364
+[2023.06.16-18.55.50:201][817]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2023.06.16-18.55.50:203][817]PIE: Server logged in
+[2023.06.16-18.55.50:204][817]PIE: Play in editor total start time 0,182 seconds.
+[2023.06.16-18.55.55:388][103]LogNet: Browse: /Game/Levels/Level1
+[2023.06.16-18.55.55:390][103]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.06.16-18.55.55:390][103]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-18.55.55:390][103]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.55.55:390][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.55.55:449][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.55.55:454][103]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2023.06.16-18.55.55:456][103]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-18.55.55:471][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015951s)
+[2023.06.16-18.55.55:472][103]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-18.55.55:472][103]LogPlayLevel: PIE: World Init took: (0.001173s)
+[2023.06.16-18.55.55:472][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017385s)
+[2023.06.16-18.55.55:472][103]LogAudio: Display: Audio Device (ID: 8) registered with world 'Level1'.
+[2023.06.16-18.55.55:472][103]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-18.55.55:476][103]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2023.06.16-20.55.55
+[2023.06.16-18.55.55:477][103]LogWorld: Bringing up level for play took: 0.002115
+[2023.06.16-18.55.55:477][103]LogLoad: Took 0.087966 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.06.16-18.56.02:098][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.56.02:099][489]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-18.56.02:099][489]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.56.02:099][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.56.02:107][489]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.56.02:123][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.56.02:152][489]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.56.02:152][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-18.56.02:153][489]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-18.56.02:168][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.56.02:172][489]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.06.16-18.56.02:204][490]LogPlayLevel: Display: Destroying online subsystem :Context_21
