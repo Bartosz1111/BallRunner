@@ -1065,3 +1065,221 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.16-13.44.13:186][229]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
 [2023.06.16-13.44.13:186][229]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
 [2023.06.16-13.44.20:660][612]LogSlate: Window 'BP_Projectiles' being destroyed
+[2023.06.16-14.05.39:259][201]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.16-14.05.39:273][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-14.05.39:273][201]PIE: New page: PIE session: Level1 (16 cze 2023, 18:05:39)
+[2023.06.16-14.05.39:273][201]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.39:287][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013682s)
+[2023.06.16-14.05.39:289][201]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.05.39:290][201]LogPlayLevel: PIE: World Init took: (0.002146s)
+[2023.06.16-14.05.39:290][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.016032s)
+[2023.06.16-14.05.39:347][201]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2023.06.16-14.05.39:348][201]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.16-14.05.39:348][201]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-14.05.39:348][201]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-14.05.39:349][201]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-14.05.39:349][201]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-14.05.39:349][201]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-14.05.39:349][201]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.16-14.05.39:353][201]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.16-14.05.39:353][201]LogAudioMixer: Display: 1: FrontRight
+[2023.06.16-14.05.39:464][201]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.16-14.05.39:464][201]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-14.05.39:464][201]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-14.05.39:464][201]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-14.05.39:465][201]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.16-14.05.39:465][201]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.16-14.05.39:465][201]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.16-14.05.39:466][201]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.16-14.05.39:467][201]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.16-14.05.39:467][201]LogInit: FAudioDevice initialized.
+[2023.06.16-14.05.39:467][201]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.06.16-14.05.39:476][201]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.05.39:479][201]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.05.39
+[2023.06.16-14.05.39:480][201]LogWorld: Bringing up level for play took: 0.002475
+[2023.06.16-14.05.39:480][201]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.06.16-14.05.39:484][201]PIE: Server logged in
+[2023.06.16-14.05.39:485][201]PIE: Play in editor total start time 0,22 seconds.
+[2023.06.16-14.05.43:827][427]LogNet: Browse: /Game/Levels/Level1
+[2023.06.16-14.05.43:827][427]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.06.16-14.05.43:827][427]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.43:828][427]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.05.43:830][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.05.43:894][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-14.05.43:899][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.06.16-14.05.43:900][427]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.43:910][427]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009778s)
+[2023.06.16-14.05.43:910][427]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.05.43:911][427]LogPlayLevel: PIE: World Init took: (0.001057s)
+[2023.06.16-14.05.43:911][427]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.011014s)
+[2023.06.16-14.05.43:911][427]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.06.16-14.05.43:911][427]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.05.43:912][427]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.05.43
+[2023.06.16-14.05.43:912][427]LogWorld: Bringing up level for play took: 0.001247
+[2023.06.16-14.05.43:913][427]LogLoad: Took 0.085701 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.06.16-14.05.48:390][639]LogNet: Browse: /Game/Levels/Level1
+[2023.06.16-14.05.48:390][639]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.06.16-14.05.48:390][639]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.48:391][639]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.05.48:394][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.05.48:438][639]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-14.05.48:441][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.06.16-14.05.48:444][639]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.48:458][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015696s)
+[2023.06.16-14.05.48:460][639]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.05.48:461][639]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2023.06.16-14.05.48:461][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.017253s)
+[2023.06.16-14.05.48:461][639]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.06.16-14.05.48:461][639]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.05.48:463][639]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.05.48
+[2023.06.16-14.05.48:463][639]LogWorld: Bringing up level for play took: 0.001523
+[2023.06.16-14.05.48:464][639]LogLoad: Took 0.074596 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.06.16-14.05.52:938][879]LogNet: Browse: /Game/Levels/Level1
+[2023.06.16-14.05.52:939][879]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.06.16-14.05.52:939][879]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.52:939][879]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.05.52:942][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.05.53:003][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-14.05.53:008][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.06.16-14.05.53:009][879]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.53:018][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009192s)
+[2023.06.16-14.05.53:019][879]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.05.53:019][879]LogPlayLevel: PIE: World Init took: (0.000973s)
+[2023.06.16-14.05.53:019][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010311s)
+[2023.06.16-14.05.53:019][879]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level1'.
+[2023.06.16-14.05.53:019][879]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.05.53:021][879]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.05.53
+[2023.06.16-14.05.53:021][879]LogWorld: Bringing up level for play took: 0.001407
+[2023.06.16-14.05.53:023][879]LogLoad: Took 0.083078 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.06.16-14.05.54:837][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-14.05.54:837][977]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.05.54:838][977]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.05.54:840][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.05.54:853][977]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-14.05.54:867][977]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.05.54:901][977]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-14.05.54:901][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-14.05.54:903][977]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-14.05.54:920][977]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-14.05.54:927][977]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.06.16-14.05.54:963][978]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.16-14.06.01:539][304]LogRenderer: Reallocating scene render targets to support 912x672 Format 10 NumSamples 1 (Frame:1).
+[2023.06.16-14.06.20:810][453]LogEditorTransaction: Undo Modify Component(s)
+[2023.06.16-14.06.20:845][453]LogMaterial: Display: Missing cached shadermap for mat_Emmisin_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 8CE2D2F5376A7A5477E463113100777BE38A5E33), compiling. 
+[2023.06.16-14.06.20:854][453]MaterialEditorStats: Texture samplers: 0/16
+[2023.06.16-14.06.20:953][455]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-14.06.20:953][455]LogShaderCompilers: Display: Total job queries 48, among them cache hits 20 (41.67%)
+[2023.06.16-14.06.20:953][455]LogShaderCompilers: Display: Tracking 28 distinct input hashes that result in 20 distinct outputs (71.43%)
+[2023.06.16-14.06.20:953][455]LogShaderCompilers: Display: RAM used: 0.11 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2023.06.16-14.06.20:953][455]LogShaderCompilers: Display: ================================================
+[2023.06.16-14.06.20:960][456]MaterialEditorStats: Base pass shader: 118 instructions
+[2023.06.16-14.06.20:960][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2023.06.16-14.06.20:960][456]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2023.06.16-14.06.20:960][456]MaterialEditorStats: Texture samplers: 2/16
+[2023.06.16-14.06.39:565][555]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_ProjectilesB38F206346DCC3C754BEB3B92E89F5B4.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Projectiles.uasset'
+[2023.06.16-14.06.39:582][555]AssetCheck: New page: Asset Save: BP_Projectiles
+[2023.06.16-14.06.39:582][555]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Projectiles.BP_Projectiles
+[2023.06.16-14.06.46:833][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.16-14.06.46:895][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.06.16-14.06.46:918][894]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level12027BDED4791752171276A9049818C56.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.06.16-14.06.46:924][894]LogFileHelpers: Saving map 'Level1' took 0.061
+[2023.06.16-14.06.46:945][894]AssetCheck: New page: Asset Save: Level1
+[2023.06.16-14.06.46:945][894]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.06.16-14.06.48:154][947]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.16-14.06.48:169][947]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.06.16-14.06.48:172][947]LogPlayLevel: [PlayLevel] Compiling BP_Projectiles before play...
+[2023.06.16-14.06.48:247][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2023.06.16-14.06.48:247][947]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2023.06.16-14.06.48:247][947]PIE: New page: PIE session: Level1 (16 cze 2023, 18:06:48)
+[2023.06.16-14.06.48:247][947]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.06.48:257][947]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009537s)
+[2023.06.16-14.06.48:258][947]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.06.48:258][947]LogPlayLevel: PIE: World Init took: (0.001028s)
+[2023.06.16-14.06.48:258][947]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010714s)
+[2023.06.16-14.06.48:292][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2023.06.16-14.06.48:292][947]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.16-14.06.48:292][947]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-14.06.48:292][947]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-14.06.48:293][947]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-14.06.48:293][947]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-14.06.48:293][947]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-14.06.48:293][947]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.16-14.06.48:296][947]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.16-14.06.48:296][947]LogAudioMixer: Display: 1: FrontRight
+[2023.06.16-14.06.48:400][947]LogAudioMixer: Display: Using Audio Device Głośniki (Realtek(R) Audio)
+[2023.06.16-14.06.48:401][947]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-14.06.48:401][947]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-14.06.48:401][947]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-14.06.48:401][947]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.16-14.06.48:401][947]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.16-14.06.48:402][947]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.16-14.06.48:403][947]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.16-14.06.48:403][947]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.16-14.06.48:403][947]LogInit: FAudioDevice initialized.
+[2023.06.16-14.06.48:403][947]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.06.16-14.06.48:416][947]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.06.48:420][947]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.06.48
+[2023.06.16-14.06.48:421][947]LogWorld: Bringing up level for play took: 0.001887
+[2023.06.16-14.06.48:421][947]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.06.16-14.06.48:424][947]PIE: Server logged in
+[2023.06.16-14.06.48:425][947]PIE: Play in editor total start time 0,26 seconds.
+[2023.06.16-14.06.52:683][168]LogNet: Browse: /Game/Levels/Level1
+[2023.06.16-14.06.52:683][168]LogLoad: LoadMap: /Game/Levels/Level1
+[2023.06.16-14.06.52:683][168]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.06.52:686][168]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.06.52:688][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.06.52:726][168]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-14.06.52:730][168]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.06.16-14.06.52:731][168]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.06.52:740][168]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009413s)
+[2023.06.16-14.06.52:741][168]LogAIModule: Creating AISystem for world Level1
+[2023.06.16-14.06.52:741][168]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2023.06.16-14.06.52:741][168]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1.Level1 to /Game/Levels/UEDPIE_0_Level1.Level1 (0.010706s)
+[2023.06.16-14.06.52:741][168]LogAudio: Display: Audio Device (ID: 4) registered with world 'Level1'.
+[2023.06.16-14.06.52:741][168]LogLoad: Game class is 'BP_GameMode_01_C'
+[2023.06.16-14.06.52:745][168]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2023.06.16-16.06.52
+[2023.06.16-14.06.52:745][168]LogWorld: Bringing up level for play took: 0.001272
+[2023.06.16-14.06.52:746][168]LogLoad: Took 0.061377 seconds to LoadMap(/Game/Levels/UEDPIE_0_Level1)
+[2023.06.16-14.06.53:724][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-14.06.53:724][221]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Level1
+[2023.06.16-14.06.53:725][221]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-14.06.53:726][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.06.53:742][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-14.06.53:752][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-14.06.53:781][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-14.06.53:782][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-14.06.53:783][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.16-14.06.53:803][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.06.16-14.06.53:833][222]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.06.16-14.16.53:452][663]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.06.16-14.16.53:476][663]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto1D0557E8F4476D71620C9D79C0FAC7606.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto1.umap'
+[2023.06.16-14.16.53:477][663]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.072
+[2023.06.16-14.16.53:477][663]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.072
+[2023.06.16-14.26.53:706][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.06.16-14.26.53:706][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.053
+[2023.06.16-14.26.53:707][ 43]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon_01] ([2] browsable assets)...
+[2023.06.16-14.26.53:749][ 43]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01]
+[2023.06.16-14.26.53:749][ 43]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
+[2023.06.16-14.26.53:772][ 43]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto28A0428744EDE28B4572A828846CFF2DF.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto2.uasset'
+[2023.06.16-14.26.53:773][ 43]LogFileHelpers: Auto-saving content packages took 0.066
+[2023.06.16-14.41.06:507][660]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2023.06.16-14.41.06:536][660]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1_Auto38C31C6D4490371DCBBBDC9BB855DFFC3.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Levels/Level1_Auto3.umap'
+[2023.06.16-14.41.06:539][660]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.079
+[2023.06.16-14.41.06:539][660]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.079
+[2023.06.16-14.41.06:539][660]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon_01] ([2] browsable assets)...
+[2023.06.16-14.41.06:567][660]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01]
+[2023.06.16-14.41.06:567][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
+[2023.06.16-14.41.06:579][660]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto3208FBA0240A08FEF6F2AE7A2F86B00D9.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto3.uasset'
+[2023.06.16-14.41.06:581][660]LogFileHelpers: Auto-saving content packages took 0.042
