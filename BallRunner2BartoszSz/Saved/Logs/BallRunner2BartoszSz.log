@@ -1283,3 +1283,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.16-14.41.06:567][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
 [2023.06.16-14.41.06:579][660]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto3208FBA0240A08FEF6F2AE7A2F86B00D9.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto3.uasset'
 [2023.06.16-14.41.06:581][660]LogFileHelpers: Auto-saving content packages took 0.042
+[2023.06.16-14.47.39:571][713]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_013079664B4129938326EC879717248F11.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Blueprints/Actors/BP_Cannon_01.uasset'
+[2023.06.16-14.47.39:587][713]AssetCheck: New page: Asset Save: BP_Cannon_01
+[2023.06.16-14.47.39:587][713]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01
+[2023.06.16-14.47.44:073][963]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2023.06.16-14.47.44:148][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2023.06.16-14.47.44:174][963]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Level1D0BB55664C960D488E2C7D994C434967.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Content/Levels/Level1.umap'
+[2023.06.16-14.47.44:181][963]LogFileHelpers: Saving map 'Level1' took 0.069
+[2023.06.16-14.47.44:204][963]AssetCheck: New page: Asset Save: Level1
+[2023.06.16-14.47.44:204][963]LogContentValidation: Display: Validating World /Game/Levels/Level1.Level1
+[2023.06.16-14.57.44:290][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.06.16-14.57.44:291][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.044
+[2023.06.16-14.57.44:292][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon_01] ([2] browsable assets)...
+[2023.06.16-14.57.44:330][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01]
+[2023.06.16-14.57.44:330][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
+[2023.06.16-14.57.44:342][217]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto4275EC1F14BABE1F799B4F5AB5E7BD067.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto4.uasset'
+[2023.06.16-14.57.44:344][217]LogFileHelpers: Auto-saving content packages took 0.052
+[2023.06.16-15.14.11:047][597]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2023.06.16-15.14.11:049][597]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1' took 0.043
+[2023.06.16-15.14.11:050][597]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Actors/BP_Cannon_01] ([2] browsable assets)...
+[2023.06.16-15.14.11:072][597]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Actors/BP_Cannon_01.BP_Cannon_01]
+[2023.06.16-15.14.11:072][597]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Actors/BP_Cannon_01]
+[2023.06.16-15.14.11:084][597]LogSavePackage: Moving '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/BP_Cannon_01_Auto59816412E40D7DAE8807B7ABC491E83BC.tmp' to '../../../../../../Users/1465500/Documents/GitHub/BallRunner/BallRunner2BartoszSz/Saved/Autosaves/Game/Blueprints/Actors/BP_Cannon_01_Auto5.uasset'
+[2023.06.16-15.14.11:085][597]LogFileHelpers: Auto-saving content packages took 0.035
